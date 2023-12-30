@@ -1,7 +1,7 @@
 {
-  "name": "@suaye/lib-reactnative",
+  "name": "@reactgh/lib-reactnative",
   "version": "1.0.2",
-  "description": "library used in suaye apps",
+  "description": "library used in react ghana apps",
   "homepage": "https://github.com/react-ghana/lib-react-native#readme",
   "repository": {
     "type": "git",
